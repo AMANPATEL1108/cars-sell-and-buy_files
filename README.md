@@ -17,7 +17,7 @@ To view the website locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/AMANPATEL1108/car-sell-buy-website.git](https://github.com/AMANPATEL1108/cars-sell-and-buy_files
+git clone https://github.com/AMANPATEL1108/cars-sell-and-buy_files
 Open index.html in your browser.
 Usage
 Feel free to explore the website by clicking on the navigation links:
